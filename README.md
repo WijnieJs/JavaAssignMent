@@ -1,6 +1,4 @@
-## Inleiding
-In de les hebben we het gehad over Maven en unitTesten. 
-
+ 
 Iedere applicatie die we maken, willen we opleveren inclusief testen. Dit is belangrijk, omdat dit een groot aantal bugs uit de applicatie kan halen, voordat de applicatie in productie gaat.
 
 
